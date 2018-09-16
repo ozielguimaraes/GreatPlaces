@@ -3,5 +3,5 @@
 Fork from: https://github.com/kphillpotts/XamarinFormsLayoutChallenges
 
 Updates: 
-- Removed font dependencies for easy builds.
+- Removed font dependencies for easy solution building.
 
